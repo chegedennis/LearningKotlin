@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="original_currency">Original Currency</string>
+    <string name="target_currency">Target Currency</string>
+    <string name="original_us_dollar">US Dollar</string>
+    <string name="original_euro">Euro</string>
+    <string name="original_british_pound">British Pound</string>
+    <string name="original_kenya_shs">Kenya Shs</string>
+    <string name="target_british_pound">British Pound</string>
+    <string name="target_kenya_shs">Kenya Shs</string>
+    <string name="target_us_dollar">US Dollar</string>
+    <string name="target_euro">Euro</string>
+    <string name="round_up">Round Up</string>
+    <string name="convert">Convert</string>
+    <string name="enter_the_amount">Enter the amount</string>
+</resources>
